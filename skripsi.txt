@@ -1,6 +1,6 @@
 print
 
-# Hello world conflict dari budi
+# Hello world conflict dari budi dan surya
 
 ## test dari surya
 
